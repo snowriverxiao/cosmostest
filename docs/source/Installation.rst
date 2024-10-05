@@ -1,4 +1,4 @@
-.. CosmosTest documentation master file, created by
+.. Cosmostest documentation master file, created by
    sphinx-quickstart on Thu Sep 16 19:43:51 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -18,15 +18,15 @@ The use of the mclust algorithm requires the rpy2 package and the mclust package
 
 Installation
 ------------
-Downloading STAGATE code from https://github.com/QIFEIDKN/STAGATE
+Downloading Cosmostest
 
 .. code-block:: python
 
-   cd STAGATE-main
+   cd cosmostest
    python setup.py build
    python setup.py install
 
 .. code-block:: python
 
-   import CosmostTest
+   import CosmosTest
    

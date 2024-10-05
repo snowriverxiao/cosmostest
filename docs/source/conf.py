@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CosmosTest'
+copyright = '2024, Yuansheng, Xue Xiao,Chen Tang, Lei Dong'
+author = 'Yuansheng, Xue Xiao,Chen Tang, Lei Dong'
 
 release = '0.1'
 version = '0.1.0'

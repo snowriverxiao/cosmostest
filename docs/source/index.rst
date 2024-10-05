@@ -15,6 +15,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
 
-   usage
-   api
+   Installation
+   Installation_pyG
+   cosmos_mouseVisualCortex

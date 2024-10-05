@@ -19,3 +19,8 @@ Contents
 
    Installation
    cosmos_mouseVisualCortex_example
+
+News
+========
+2022.03.05 Cosmostest based on PyTorch Geometric DGI framework is availble at .
+

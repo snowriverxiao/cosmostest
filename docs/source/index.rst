@@ -18,5 +18,4 @@ Contents
    :maxdepth: 1
 
    Installation
-   Installation_pyG
-   cosmos_mouseVisualCortex
+   cosmos_mouseVisualCortex_example

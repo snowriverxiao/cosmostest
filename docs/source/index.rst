@@ -18,6 +18,7 @@ Contents
    :maxdepth: 1
 
    Installation
+   Installation2
    cosmos_mouseVisualCortex_example
 
 News

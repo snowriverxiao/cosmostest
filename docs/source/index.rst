@@ -15,7 +15,7 @@ Contents
    :maxdepth: 1
    
    Installation
-   cosmos_mouseVisualCortex_example
+   Cosmos_mouseVisualCortex_example
 
 .. image:: ../../Images/workflow.png
 

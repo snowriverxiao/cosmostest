@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Installation (pytorch)
+Installation 
 ============
 
 Software dependencies
@@ -31,10 +31,9 @@ Installation
    cd COSMOS
 
    If you would like to import COSMOS in different directories, there is an option 
-   to make it work. 
-   ```
+   to make it work: 
    python setup.py install --user &> log
-   ```
+
 
 .. code-block:: python
    import Cosmos

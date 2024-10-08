@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'CosmosTest'
+project = 'Cosmos'
 copyright = '2024, Yuansheng, Xue Xiao,Chen Tang, Lei Dong'
 author = 'Yuansheng, Xue Xiao,Chen Tang, Lei Dong'
 

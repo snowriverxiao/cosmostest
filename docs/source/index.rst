@@ -1,7 +1,7 @@
-Welcome to CosmosTest's documentation!
+Cosmos - spatially resolved multi-omics data Integration
 ===================================
 
-**CosmosTest** is a Python library for Spatialmoics data Integration
+**Cosmos** is a Python library for Spatialmoics data Integration
 offers a *simple* and *effective* tool.
 
 Check out the :doc:`usage` section for further information, including
@@ -20,6 +20,8 @@ Contents
    Installation
    Installation2
    cosmos_mouseVisualCortex_example
+
+.. image:: ../Images/pseudo_spatiotemporal_map_from_COSMOS_integration.png
 
 News
 ========

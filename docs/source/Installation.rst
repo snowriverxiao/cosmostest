@@ -11,22 +11,31 @@ Software dependencies
 .. code-block:: python
 
    scanpy
-   tensorflow==1.15.0
-   
-The use of the mclust algorithm requires the rpy2 package and the mclust package. See https://pypi.org/project/rpy2/ and https://cran.r-project.org/web/packages/mclust/index.html for detail.
-
+   pandas
+   numpy
+   matplotlib
+   umap-learn
+   scikit-learn
+   seaborn
+   torch
+   networkx
+   gudhi
+   anndata
+   cmcrameri
+   pytorch-geometric
 
 Installation
 ------------
-Downloading STAGATE code from https://github.com/QIFEIDKN/STAGATE
+.. code-block:: python
+   git clone https://github.com/Lin-Xu-lab/COSMOS.git
+   cd COSMOS
+
+   If you would like to import COSMOS in different directories, there is an option 
+   to make it work. 
+   ```
+   python setup.py install --user &> log
+   ```
 
 .. code-block:: python
-
-   cd STAGATE-main
-   python setup.py build
-   python setup.py install
-
-.. code-block:: python
-
-   import Cosmostest
+   import Cosmos
    

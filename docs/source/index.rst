@@ -17,7 +17,7 @@ Contents
    Installation
    Cosmos_mouseVisualCortex_example
 
-.. image:: ../../Images/workflow.png
+.. image:: ../../Images/workflow1.png
 
 News
 ========

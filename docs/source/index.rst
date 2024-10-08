@@ -17,7 +17,7 @@ Contents
    Installation
    cosmos_mouseVisualCortex_example
 
-.. image:: ../../Images/pseudo_spatiotemporal_map_from_COSMOS_integration.png
+.. image:: ../../Images/workflow.png
 
 News
 ========

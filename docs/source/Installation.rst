@@ -27,6 +27,7 @@ Software dependencies
 Installation
 ------------
 .. code-block:: python
+
    git clone https://github.com/Lin-Xu-lab/COSMOS.git
    cd COSMOS
 
@@ -36,5 +37,6 @@ Installation
 
 
 .. code-block:: python
+
    import Cosmos
    

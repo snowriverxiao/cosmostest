@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-To use CosmosTest, first install it using pip:
+To use Cosmos, first install it using pip:
 
 .. code-block:: console
 
